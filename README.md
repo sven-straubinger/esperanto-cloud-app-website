@@ -1,2 +1,2 @@
 # esperanto-shopify-app-website
-The website for the Esperanto Shopify app.
+The website for the Easy Translation Shopify app.
